@@ -1,5 +1,6 @@
 package src.main.java;
 
+// test
 public class Counter {
 
 	private int count;
